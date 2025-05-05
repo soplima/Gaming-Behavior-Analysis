@@ -1,4 +1,4 @@
-# Gaming Behavior Analysis and Engagement Prediction
+# Gaming Behavior Analysis and Engagement Prediction 🎮
 
 This project focuses on clustering user data and analyzing engagement levels to predict which factors influence high engagement in a gaming environment.
 
